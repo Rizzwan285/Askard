@@ -1,0 +1,1 @@
+AI/ML-based flood early warning system that fuses radar, satellite, weather observations, and NWP data to forecast heavy rainfall and predict flood depth. Combines deep learning with physics-informed hydrological modeling to deliver actionable, location-specific warnings for disaster management.
