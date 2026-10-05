@@ -25,21 +25,21 @@ The UI dynamically adapts its layout, metrics, and navigation tools depending on
 #### Dashboard Interfaces
 
 <p align="center">
-  <img src="docs/images/authority_view.png" alt="Disaster Management Authority View" width="850"/><br>
+  <img src="images/authority.png" alt="Disaster Management Authority View" width="850"/><br>
   <sub><b>Figure 1:</b> Strategic Command Dashboard for Disaster Management Authorities (NDMA/SDMA/DDMA)</sub>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="docs/images/responder_view.png" alt="First Responder Tactical View" width="850"/><br>
+  <img src="images/responder.png" alt="First Responder Tactical View" width="850"/><br>
   <sub><b>Figure 2:</b> First Responder Tactical Navigation & Dynamic Safe-Route Interface</sub>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="docs/images/citizen_view.png" alt="Public Citizen Portal View" width="850"/><br>
+  <img src="images/citizen.png" alt="Public Citizen Portal View" width="850"/><br>
   <sub><b>Figure 3:</b> Public Citizen Safety Portal & Local Community Impact View</sub>
 </p>
 
