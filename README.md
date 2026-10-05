@@ -4,7 +4,7 @@ The **ASKARD** web platform serves as a real-time, interactive command portal th
 
 ---
 
-### 1. Interactive Geospatial Dashboard (Digital Twin)
+### 1. Interactive Geospatial Dashboard 
 
 * **Dynamic Data Layers:** Toggleable map overlays for rainfall forecasts, physics-informed flood inundation depth rasters, and categorical hazard risk masks.
 * **Multi-Source Data Overlays:** Real-time visibility into the five core raw data streams powering the pipeline—weather radar, satellite observations, Numerical Weather Prediction (NWP), ground rain gauges, and reservoir/dam telemetry.
@@ -16,7 +16,7 @@ The **ASKARD** web platform serves as a real-time, interactive command portal th
 
 The UI dynamically adapts its layout, metrics, and navigation tools depending on the authenticated user role:
 
-| Stakeholder / Role | Focus | Core UI Capabilities |
+| Stakeholder / Role | Focus | Core Capabilities |
 | :--- | :--- | :--- |
 | **Disaster Management Authorities** *(NDMA, SDMA, DDMA)* | Strategic Planning & Intervention | 1–6 hour operational lead-time windows, street-level depth forecasts, administrative ward metrics, and resource allocation panels. |
 | **Emergency First Responders** *(NDRF, SDRF, Municipal)* | Tactical Rescue & Navigation | Dynamic safe-route navigation that automatically redirects response teams around submerged transit corridors in real time. |
