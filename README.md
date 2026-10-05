@@ -25,7 +25,7 @@ The UI dynamically adapts its layout, metrics, and navigation tools depending on
 #### Dashboard Interfaces
 
 <p align="center">
-  <img src="images/authority.png" alt="Disaster Management Authority View" width="850"/><br>
+  <img src="images/citizen.png" alt="Disaster Management Authority View" width="850"/><br>
   <sub><b>Figure 1:</b> Strategic Command Dashboard for Disaster Management Authorities (NDMA/SDMA/DDMA)</sub>
 </p>
 
@@ -39,7 +39,7 @@ The UI dynamically adapts its layout, metrics, and navigation tools depending on
 <br>
 
 <p align="center">
-  <img src="images/citizen.png" alt="Public Citizen Portal View" width="850"/><br>
+  <img src="images/authority.png" alt="Public Citizen Portal View" width="850"/><br>
   <sub><b>Figure 3:</b> Public Citizen Safety Portal & Local Community Impact View</sub>
 </p>
 
