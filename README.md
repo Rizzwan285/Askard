@@ -1,4 +1,4 @@
-## ASKARD 
+# ASKARD 
 
 The **ASKARD** web platform serves as a real-time, interactive command portal that bridges complex physics-informed AI predictions with on-the-ground disaster response. ASKARD converts multi-modal rainfall forecasts, atmospheric observations, and street-level flood inundation models into clear geospatial intelligence—enabling synchronized, proactive decision-making across disaster management authorities, emergency responders, and local communities.
 
